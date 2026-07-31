@@ -1,4 +1,4 @@
-# Math2
+# Math2You
 
 Proyecto desarrollado en Go para practicar algoritmos matemáticos.
 
