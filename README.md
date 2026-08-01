@@ -27,7 +27,7 @@ go build
 ```
 
 
-![Logo](images/logo.png)
+
 
 ## Autor
 
