@@ -7,8 +7,8 @@ Proyecto desarrollado en Go para practicar algoritmos matemáticos.
 - Factorial
 - Hipotenusa
 - Ecuaciones cuadráticas
-- Método de Cramer
-- Máximo Común Divisor (MCD) y muchos mas que se iran creando
+- Método de Gauss para Sistemas de n Ecuaciones
+- Máximo Común Divisor (MCD).
 
 ## Requisitos
 
