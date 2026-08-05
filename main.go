@@ -45,7 +45,7 @@ func modulomenu(opcion int) {
 		mcd2()
 
 	case 5:
-		ecuacionesCramer()
+		ecuacionesGauss()
 
 	case 6:
 
