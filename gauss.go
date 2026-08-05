@@ -1,3 +1,9 @@
+//Versión 1.0
+
+// Eliminación de Gauss.
+//Sustitución hacia atrás.
+//Requiere pivotes distintos de cero.
+
 package main
 
 import "fmt"
