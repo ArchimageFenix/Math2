@@ -28,6 +28,7 @@ func leern() {
 	imprimirMatrizGauss(matriz, n)
 	soluciones := sustitucionAtras(matriz, n)
 	imprimirSoluciones(soluciones, n)
+	pgmReporte(matriz, soluciones, n)
 
 }
 
@@ -68,7 +69,7 @@ func leerCoeficientes(matriz [][]float64, n int) {
 
 func imprimirMatriz(matriz [][]float64, n int) {
 
-	fmt.Println("\nMatriz aumentada:\n")
+	fmt.Println("\nMatriz aumentada:")
 
 	for i := 0; i < n; i++ {
 
@@ -172,7 +173,7 @@ func imprimirSoluciones(soluciones []float64, n int) {
 
 	for i := 0; i < n; i++ {
 
-		fmt.Printf("X%d = %.4f\n", i+1, soluciones[i])
+		fmt.Printf("X%d = %.1f\n", i+1, soluciones[i])
 
 	}
 
